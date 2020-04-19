@@ -1,0 +1,79 @@
+
+
+@media (max-width: 576px) {
+  /* line 57, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .feature_part .single_feature_part {
+    padding: 25px 10px;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 57, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .feature_part .single_feature_part {
+    padding: 30px 15px;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 57, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .feature_part .single_feature_part {
+    padding: 30px 25px;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 57, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .feature_part .single_feature_part {
+    margin-top: 25px;
+  }
+}
+
+
+/* line 148, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+.feature_part .single_feature_part p {
+  color: #7f7f7f;
+  line-height: 1.8;
+  font-size: 15px;
+}
+
+
+
+/* line 163, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+.feature_part .single_feature:hover .single_feature_part {
+  border: 1px solid green;
+  background-color: green;
+}
+
+/* line 167, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+.feature_part .single_feature:hover h4 {
+  color: #fff;
+}
+
+/* line 170, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+.feature_part .single_feature:hover p {
+  color: #fff;
+}
+
+/* line 173, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+.feature_part .single_feature:hover span {
+  background-color: #f2f6f8;
+}
+
+
+
+@media (max-width: 991px) {
+  /* line 182, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .single_feature_part {
+    padding-top: 45px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 182, ../../01 cl html template/New folder/May 2019/179 Medisen Medical/179 Medisen Medical -Template/sass/_feature_part.scss */
+  .single_feature_part {
+    padding-top: 55px;
+  }
+}

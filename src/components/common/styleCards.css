@@ -1,0 +1,62 @@
+.block__62849 .block__16443 {
+  background: #fff;
+  padding: 30px;
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  top: 0;
+  position: relative;
+  text-decoration: none; }
+  .block__62849 .block__16443 .custom-icon {
+    display: block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px solid #1644ba;
+    background: #1644ba;
+    margin-bottom: 1.5rem;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease; }
+    .block__62849 .block__16443 .custom-icon:before {
+      display: none;
+      border-radius: 50%;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      content: "";
+      width: 90px;
+      height: 90px;
+      border: 1px solid rgba(22, 68, 186, 0.2); }
+  .block__62849 .block__16443 [class^="icon-"], .block__62849 .block__16443 [class^="flaticon-"] {
+    font-size: 1.6rem;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: 0.3s all cubic-bezier(0.66, 0.2, 0.48, 0.9);
+    -o-transition: 0.3s all cubic-bezier(0.66, 0.2, 0.48, 0.9);
+    transition: 0.3s all cubic-bezier(0.66, 0.2, 0.48, 0.9); }
+  .block__62849 .block__16443 h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem; }
+  .block__62849 .block__16443 p {
+    color: #7f848c; }
+  .block__62849 .block__16443:hover {
+    top: -20px;
+    -webkit-box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.2); }
+    @media (max-width: 991.98px) {
+      .block__62849 .block__16443:hover {
+        top: 0; } }
+    .block__62849 .block__16443:hover .custom-icon {
+      background: transparent; }
+      .block__62849 .block__16443:hover .custom-icon [class^="icon-"], .block__62849 .block__16443:hover .custom-icon [class^="flaticon-"] {
+        color: #1644ba; }
